@@ -98,9 +98,8 @@ Ensure all components are displayed correctly on various screen sizes.
 
 ![image](https://github.com/user-attachments/assets/796b494c-efaf-4c6a-abbe-b63c737e4acb)
 
-![image](https://github.com/user-attachments/assets/df8fd0ec-503c-4f16-9e48-94bc53046220)
-
-![image](https://github.com/user-attachments/assets/e0a12943-5b16-4545-b720-d29e70f3e059)
+![image](https://github.com/user-attachments/assets/4a5fa626-f0b6-4b31-a226-ccea45dd8b15)
+![image](https://github.com/user-attachments/assets/ece14034-d285-4004-b444-1e5375abca4d)
 
 ![image](https://github.com/user-attachments/assets/73172ec8-8c52-4801-879c-d9061328efad)
 
