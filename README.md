@@ -29,7 +29,7 @@ git clone <repository-url> cd <repository-directory>
 npm install
 
 ## Start JSON Server In the terminal, run:
-npx json-server --watch db.json --port 5000
+npm run start:server
 
 ## Run the React Application In a new terminal window, start the React app:
 npm start
@@ -50,12 +50,12 @@ Amount: e.g., "50"
 Date: e.g., "2024-10-07"
 Type: Select one of the types (Food, Transport, Entertainment, Other).
 Submit the form and verify that the expense is added to the list.
-## Test Validation:
+Test Validation:
 
 Attempt to submit the form with empty fields or invalid data (e.g., amount exceeding 9,999,999).
 Ensure appropriate error messages are displayed, such as "All fields are required" or "Amount must be less than 9,999,999".
 ## 3. Viewing Expenses
-## Test Expense List:
+Test Expense List:
 Navigate to the "Expense List" page.
 Check that all added expenses are displayed with their descriptions, amounts, dates, and types.
 Ensure the total expenses amount is calculated correctly and displayed at the top of the list.
