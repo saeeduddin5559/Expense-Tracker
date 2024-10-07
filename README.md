@@ -83,3 +83,7 @@ Ensure that navigating to non-existent routes redirects to an error page.
 Test Responsiveness:
 Resize the browser window or use a mobile device to test the application's layout and functionality.
 Ensure all components are displayed correctly on various screen sizes.
+
+
+
+![image](https://github.com/user-attachments/assets/7f533d93-0d0a-415c-a7f8-ea43623893aa)
