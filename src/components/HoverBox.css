@@ -1,0 +1,49 @@
+.hover-box {
+    background-color: white;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    width: 400px;
+    text-align: center;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    position: relative;
+  }
+  
+  .hover-box h1 {
+    color: rgb(2, 3, 129);
+    margin-bottom: 10px;
+  }
+  
+  .hover-box p {
+    color: rgb(169, 184, 195);
+  }
+  
+  .hover-box {
+    height: 200px;
+    margin-bottom: 15px;
+  }
+  
+  .hover-box .arrow {
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+    opacity: 0;
+    font-size: 24px;
+    transition: bottom opacity 0.3s ease;
+  }
+  
+  .hover-box:hover {
+    background-color: rgb(2, 3, 129);
+    color: white;
+  }
+  
+  .hover-box:hover h1,
+  .hover-box:hover p {
+    color: white;
+  }
+  
+  .hover-box:hover .arrow {
+    opacity: 1;
+  }
+  

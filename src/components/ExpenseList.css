@@ -1,0 +1,16 @@
+.expense-banner {
+    text-align: center;
+    overflow: hidden;
+    margin-bottom: -20px;
+    margin-left: -25px;
+    margin-right: -25px;
+  }
+  
+  .expense-banner-img {
+    width: 100%;
+    height: 270px;
+  }
+
+  .expense-list{
+    color: black;
+  }
