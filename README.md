@@ -83,3 +83,32 @@ Ensure that navigating to non-existent routes redirects to an error page.
 Test Responsiveness:
 Resize the browser window or use a mobile device to test the application's layout and functionality.
 Ensure all components are displayed correctly on various screen sizes.
+
+
+
+![image](https://github.com/user-attachments/assets/7f533d93-0d0a-415c-a7f8-ea43623893aa)
+
+![image](https://github.com/user-attachments/assets/e6c34e6d-c507-4854-becd-3776f8978b44)
+
+![image](https://github.com/user-attachments/assets/07861ed8-8da4-427a-8520-3e2d626e3166)
+
+![image](https://github.com/user-attachments/assets/88ff235c-157f-4e3d-8b5f-d45dacb5a556)
+
+![image](https://github.com/user-attachments/assets/6f4d77b9-3a12-481c-a6a3-22c8a34ca65c)
+
+![image](https://github.com/user-attachments/assets/796b494c-efaf-4c6a-abbe-b63c737e4acb)
+
+![image](https://github.com/user-attachments/assets/df8fd0ec-503c-4f16-9e48-94bc53046220)
+
+![image](https://github.com/user-attachments/assets/e0a12943-5b16-4545-b720-d29e70f3e059)
+
+![image](https://github.com/user-attachments/assets/73172ec8-8c52-4801-879c-d9061328efad)
+
+![image](https://github.com/user-attachments/assets/81c03a68-3f2f-4a78-b9c0-f3a601137a2c)
+
+![image](https://github.com/user-attachments/assets/2a90e8d7-a48a-4477-90ab-88af18983178)
+
+![image](https://github.com/user-attachments/assets/86ee52c1-e2a7-4635-9e06-6fe29a6738d4)
+
+![image](https://github.com/user-attachments/assets/593c8130-3c01-4207-9a47-b06a642c4a50)
+
